@@ -1,0 +1,34 @@
+#app{
+    width: 100%;
+    height: 800px;
+    background-color: aquamarine;
+}
+.line{
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+
+#games{
+    width: 100%;
+    height: 800px;
+    background-color: lightcyan;
+}
+img{
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#bot{
+     width: 100%;
+     height: 800px;
+    background-color: chartreuse;
+    
+}
+#artist{
+    width: 100%;
+    height: 800px;
+    background-color: cornflowerblue;
+}
